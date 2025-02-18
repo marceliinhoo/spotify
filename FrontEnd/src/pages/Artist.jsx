@@ -2,7 +2,7 @@ import React from 'react'
 import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link, useParams } from 'react-router-dom';
-import SongList from '../components/SongList';
+import SongList from '../components/Song_List';
 import { artistArray } from '../assets/database/artists'
 import { songsArray } from '../assets/database/songs'
 const Artist = () => {
