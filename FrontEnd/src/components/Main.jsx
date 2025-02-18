@@ -1,6 +1,6 @@
 
 import React from "react";
-import ItemList from "./itemList";
+import ItemList from "./Item_List";
 import { artistArray } from "../assets/database/artists";
 import { songsArray } from "../assets/database/songs";
 
